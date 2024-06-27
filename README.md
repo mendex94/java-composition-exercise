@@ -1,0 +1,5 @@
+## Exercicio de compsição com Java
+
+## Enunciado:
+
+Ler os dados de um trabalhadore com N contratos (N fornecido pelo usuário). Depois, solicitar do usuário um mês e mostrar qual foi o salário do funcionário nesse mês.
